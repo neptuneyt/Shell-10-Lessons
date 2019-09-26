@@ -118,9 +118,9 @@ sed -n "s/pattern/string/pg" file   #将file中匹配pattern的所有字符替�
 * df #查看磁盘分区大小
 * du #统计文件占用的磁盘大小
 ### 网络
-ping #测试网络是否畅通
-netstat #查看网络连接状态
-ifconfig #查看和配置网络
+* ping #测试网络是否畅通
+* netstat #查看网络连接状态
+* ifconfig #查看和配置网络
 
 熟悉以上命令基本可以玩转Linux系统以及做一些简单的任务处理了，其实数一数也才20几个常用的命令，所以，骚年加油，让键盘跳跃起来吧！
 

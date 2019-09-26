@@ -25,7 +25,7 @@
 在互联网+的时代，无论是开发端游、手游、操作系统的程序猿，还是做大数据分析、人工智能的工程师，更或者是像我们这种苦逼的生信猿，无一例外都要用到Linux操作系统。**这个由被称为“大鼻子男孩”Linus Torvalds在1991年开发的类Unix操作系统，现在已经成了除微软以外应用最广的的操作系统，尤其是一些大公司，甚至连微软自己都用。** 另外一个你想不到的是，我们所有Android系统手机也是基于Linux系统的。Linux系统自创建以来就以开源（open source）为宗旨，现在已经有很多发行版本，例如像CentOS、Ubuntu、Debian等，每个版本一般都有桌面版本和服务器版本。Linux系统与Windows系统差别最大的一点是它以命令行模式为主，美国大片里各种狂拽酷炫屌炸天的黑客攻击的镜头，就是在Linux系统上干的。
 ![rolling_screen](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559399458493&di=a395ade44dbd4042c74c533ce051661b&imgtype=0&src=http%3A%2F%2Fpic4.zhimg.com%2F50%2Fv2-815b2f66016e4699e59a0a6e7df58adc_hd.gif)
 ## 安装属于你的Linux系统
-每个人都可以轻松拥有一个Linux操作系统（当然前提是你得有电脑），如果你是苹果电脑，直接打开shell程序即可进入命令行模式，因为苹果电脑本身就是Unix系统；如果不是，推荐在Windows 系统上安装虚拟机，好用的虚拟机软件例如VirtualBox、VMware,安装方法如同安装QQ、微信一样，具体的过程可以参考[兄弟连Linux视频教程](https://www.bilibili.com/video/av7797044/?p=5)
+每个人都可以轻松拥有一个Linux操作系统（当然前提是你得有电脑），如果你是苹果电脑，直接打开Term终端就进入了shell的命令行模式，因为苹果电脑本身就是Unix系统；如果不是，推荐在Windows 系统上安装虚拟机，好用的虚拟机软件例如VirtualBox、VMware,安装方法如同安装QQ、微信一样，具体的过程可以参考[兄弟连Linux视频教程](https://www.bilibili.com/video/av7797044/?p=5)
 ## shell的功能
 无论哪个发行版本，**Linux操作系统的核心原理都是基于shell实现外层应用程序和内核以及硬件的通信，从而实现人对机器的控制。**  可见shell的初衷是帮助用户和管理员更好的维护和管理操作系统，但其实shell对于通常的文本处理（例如某些表格、系统运维日志），甚至是某些数值运算都是友好的。因此，学好shell既能帮助你把Linux系统玩得很溜，又能帮助你快速、便捷地处理一些简单或者复杂的编程项目，一举两得，何乐而不为呢？总结shell的主要功能：
 * Linux系统管理和运维：例如批量增加/删除多个用户
@@ -89,8 +89,9 @@ Hello Shell!
 * **优化搭好积木的结构**
 结构上是不是能精简？代码是不是能复用（函数）？循环时间是不是能压缩。。。
 * **搭一万次积木**
-神枪手都是子弹喂出来的，程序猿也是，结合实际需求，多练多写才是王道。（当然，某些天才是例外，人生来是为了创造语言的）
+神枪手都是子弹喂出来的，程序猿也是，结合实际需求，多练多写才是王道。（当然，某些天才是例外，人家生来是为了创造语言的）
 
 # 参考
 [Shell script wikipedia](https://en.wikipedia.org/wiki/Shell_script)
+
 [Shell Scripting Tutorial](https://www.shellscript.sh/index.html)

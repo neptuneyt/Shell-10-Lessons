@@ -14,7 +14,8 @@
 
 来吧，学点shell！
 
-![sailor_suit_grandfather](http://lc-aok3pCDe.cn-n1.lcfile.com/f95765246daeb7108c51/sailor_suit_grandfather.gif)
+![](https://github.com/neptuneyt/Shell-10-Lessons/blob/master/Lesson1-Introduction/sailer_grandpa.gif)
+
 
 当然，万丈高楼平地起，我会从Linux系统、常用命令和shell语法等基础讲起。废话不多说，首先看看什么是shell？shell能干嘛？学会shell你要付出多少时间？
 
@@ -77,7 +78,7 @@ Hello Shell!
 （将Tetris.sh里的shell源码复制到你的Linux系统，$提示符后键入bash Tetris.sh
 现在开启童年模式，愉快的去玩耍俄罗斯方块吧！）
 
-![Tetris game](https://s19.aconvert.com/convert/p3r68-cdx67/fyzn8-1bp14.gif)
+![Tetris game](https://github.com/neptuneyt/Shell-10-Lessons/blob/master/Lesson1-Introduction/tetris_game.gif)
 
 # 怎么学shell
 **如果说编程就是搭积木游戏，你可以参考下面的套路：**

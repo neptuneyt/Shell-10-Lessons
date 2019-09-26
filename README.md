@@ -15,4 +15,4 @@ Shell-10-Lessons，从菜鸟到老鸟
 
 来吧，学点shell！
 
-![sailor_suit_grandfather](http://lc-aok3pCDe.cn-n1.lcfile.com/f95765246daeb7108c51/sailor_suit_grandfather.gif)
+![sailor_suit_grandfather](https://raw.githubusercontent.com/neptuneyt/Shell-10-Lessons/master/Lesson1-Introduction/tetris_game.gif)
